@@ -65,4 +65,10 @@ And now you can visit the site with the URL http://localhost:3000
 ```ruby
 rspec .
 ```
- 
+#### Note
+
+  As per the requirment: 
+   ##### A coach can be removed/deleted, transfer the course to another coach in case the deleted coach is responsible for a course.
+  - A coach can be deleted from the course. But if the course has already coach available coach cannot be deleted. 
+
+
